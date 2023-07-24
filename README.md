@@ -1,1 +1,1 @@
-This project is coded with html.
+This project coded with html.
